@@ -20,8 +20,8 @@ SecureZip est une application de chiffrement et déchiffrement de fichiers, dév
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/securezip.git
-   cd securezip
+   git clone https://github.com/Kipstz/Golang-SecureZip.git
+   cd Golang-SecureZip
    ```
 
 2. Installez les dépendances :
