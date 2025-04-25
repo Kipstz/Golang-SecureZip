@@ -63,7 +63,7 @@ SecureZip est une application de chiffrement et déchiffrement de fichiers, dév
 ## Structure du projet
 
 ```
-securezip/
+Golang-SecureZip/
 ├── main.go          # Point d'entrée de l'application
 ├── ui/              # Interface utilisateur (Fyne)
 │   └── ui.go
