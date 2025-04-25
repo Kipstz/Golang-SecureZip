@@ -1,5 +1,5 @@
 
-# SecureZip
+# Golang-SecureZip
 
 SecureZip est une application de chiffrement et déchiffrement de fichiers, développée en Go avec une interface graphique basée sur Fyne. Elle utilise l'algorithme AES-GCM pour garantir la sécurité des données.
 
